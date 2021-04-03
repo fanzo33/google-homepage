@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+div.top-bar {
+    display: flex;
+    align-items: center;
+    padding: 6px;
+    padding-top: 8px;
+} 
+
+a {
+    padding-left: 6px;
+}
+
+.right-side {
+    padding-left: 80%;
+    text-align: right;
+}
+
+div.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.logo-container {
+    padding-top: 150px;
+    position: relative;
+    bottom: 0;
+    
+}
